@@ -1,0 +1,14 @@
+{
+  "title": "Getting Started with Django REST API",
+  "slug": "getting-started-with-django-rest-api",
+  "featured_image": null,
+  "content": "This is a demo blog post content from frontend. Replace this with your real editor content.",
+  "excerpt": "Quick introduction to building APIs with Django.",
+  "category": 1,
+  "author": 1,
+  "tags": [1, 2],
+  "related_blogs": [],
+  "views": 0,
+  "is_feature": false,
+  "status": "published"
+}
